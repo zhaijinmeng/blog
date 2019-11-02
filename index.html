@@ -1,14 +1,1 @@
----
-layout: default
-title: 我的Blog
----
-<h2>{{ page.title }}</h2>
-<p>最新文章</p>
-<ul>
-	{% for post in site.posts %}
-	<li>
-		{{ post.date | date_to_string }} 
-		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-	</li>
-	{% endfor %}
-</ul>
+<!DOCTYPE html><html lang=en><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=favicon.ico><title>zjms-workspace</title><link href=css/app.db45da56.css rel=preload as=style><link href=js/app.4e1c085f.js rel=preload as=script><link href=js/chunk-vendors.97f37d71.js rel=preload as=script><link href=css/app.db45da56.css rel=stylesheet></head><body><noscript><strong>We're sorry but zjms-workspace doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app></div><script src=js/chunk-vendors.97f37d71.js></script><script src=js/app.4e1c085f.js></script></body></html>
