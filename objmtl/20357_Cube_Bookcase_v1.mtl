@@ -14,5 +14,5 @@ newmtl _20357_Cube_Bookcase_v120357_Cube_Bookcase_wood
 	Ke 0.0000 0.0000 0.0000
 	map_Ka 20357_Cube_Bookcase_diff.jpg
 	map_Kd 20357_Cube_Bookcase_diff.jpg
-	# map_bump -bm 0.0200 20357_Cube_Bookcase_bump.jpg
-	# bump -bm 0.0200 20357_Cube_Bookcase_bump.jpg
+#	map_bump -bm 0.0200 20357_Cube_Bookcase_bump.jpg
+#	bump -bm 0.0200 20357_Cube_Bookcase_bump.jpg
